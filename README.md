@@ -1,4 +1,4 @@
-# **Use Case: Chatbot for UNEJ Student Service**
+# **Use Case: Chatbot for UNEJ Public Service**
 SIUBOT (Simple UNEJ BOT) is a chatbot designed to assist the academic community and the public in accessing information available on the official website of the University of Jember. This chatbot gathers data through web scraping from the university's official website and is built using the Llama 3.3 70B Versatile model from Groq.
 
 With a Gradio-based visualization, SIUBOT serves as a simple prototype of a university chatbot, enhancing accessibility and efficiency in obtaining official university information.
